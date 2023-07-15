@@ -1,0 +1,187 @@
+18:07:20.189[main] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+18:07:20.195[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+18:07:27.044[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Newload button
+18:07:27.411[main] INFO  testCases.RB_loadcreationtest_001 - Providing load details
+18:08:09.039[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Save button
+18:08:22.390[main] ERROR testCases.RB_loadcreationtest_001 - Test Failed
+12:03:45.184[main] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+12:03:45.319[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+12:03:53.830[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Newload button
+12:03:54.644[main] INFO  testCases.RB_loadcreationtest_001 - Providing load details
+12:05:34.357[main] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+12:05:34.371[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+12:05:40.784[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Newload button
+12:05:41.974[main] INFO  testCases.RB_loadcreationtest_001 - Providing load details
+12:05:57.283[main] ERROR testCases.RB_loadcreationtest_001 - Test Failed
+12:15:36.449[TestNG-tests-1] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+12:15:36.449[TestNG-tests-2] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+12:15:36.571[TestNG-tests-1] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+12:15:36.571[TestNG-tests-2] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+12:15:49.990[TestNG-tests-1] ERROR testCases.RB_loadcreationtest_001 - Test Failed
+12:15:51.034[TestNG-tests-2] ERROR testCases.RB_loadcreationtest_001 - Test Failed
+12:16:38.269[TestNG-tests-1] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+12:16:38.303[TestNG-tests-1] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+12:16:38.680[TestNG-tests-2] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+12:16:38.685[TestNG-tests-2] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+12:16:45.420[TestNG-tests-2] INFO  testCases.RB_loadcreationtest_001 - Clicked Newload button
+12:16:48.071[TestNG-tests-2] INFO  testCases.RB_loadcreationtest_001 - Providing load details
+12:16:48.495[TestNG-tests-1] ERROR testCases.RB_loadcreationtest_001 - Test Failed
+12:32:01.005[main] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+12:32:01.018[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+12:32:03.055[main] ERROR testCases.RB_loadcreationtest_001 - Test Failed
+12:33:53.574[main] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+12:33:53.586[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+12:33:59.522[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Newload button
+12:33:59.970[main] INFO  testCases.RB_loadcreationtest_001 - Providing load details
+12:34:03.911[main] ERROR testCases.RB_loadcreationtest_001 - Test Failed
+14:49:06.057[main] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+14:49:06.104[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+14:49:13.366[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Newload button
+14:49:14.740[main] INFO  testCases.RB_loadcreationtest_001 - Providing load details
+14:49:58.351[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Save button
+14:54:35.783[main] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+14:54:35.791[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+14:54:42.204[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Newload button
+14:54:42.726[main] INFO  testCases.RB_loadcreationtest_001 - Providing load details
+14:55:07.958[main] ERROR testCases.RB_loadcreationtest_001 - Test Failed
+14:57:42.668[main] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+14:57:42.723[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+14:57:50.025[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Newload button
+14:57:51.064[main] INFO  testCases.RB_loadcreationtest_001 - Providing load details
+14:58:33.640[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Save button
+14:58:46.667[main] INFO  testCases.RB_loadcreationtest_001 - ******Finished RB_loadcreationtest_001 Test*******
+17:11:06.289[main] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+17:11:06.367[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+17:11:13.408[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Newload button
+17:11:14.854[main] INFO  testCases.RB_loadcreationtest_001 - Providing load details
+17:11:57.214[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Save button
+17:12:10.556[main] ERROR testCases.RB_loadcreationtest_001 - Test Failed
+19:19:52.949[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+19:19:52.967[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+19:19:59.701[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+19:20:00.536[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+19:20:42.342[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Save button
+19:24:18.863[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+19:24:18.873[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+19:24:24.444[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+19:24:24.753[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+19:24:57.350[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Save button
+19:26:54.040[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+19:26:54.049[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+19:27:02.065[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+19:27:02.422[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+19:30:04.239[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+19:30:04.248[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+19:30:08.631[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+19:30:08.993[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+19:33:18.046[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+19:33:18.054[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+19:33:23.175[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+19:33:23.655[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+19:33:57.830[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Save button
+19:35:25.856[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+19:35:25.865[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+19:35:36.322[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+19:35:36.697[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+19:36:13.462[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Save button
+19:38:47.707[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+19:38:47.715[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+19:38:53.793[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+19:38:54.284[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+19:44:18.061[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+19:44:18.070[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+19:44:23.497[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+19:44:24.002[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+19:47:07.382[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+19:47:07.391[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+19:47:13.969[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+19:47:14.464[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+20:07:29.655[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+20:07:29.663[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+20:07:36.061[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+20:07:36.717[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+20:09:45.360[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+20:09:45.370[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+20:09:51.802[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+20:09:52.330[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+20:11:53.931[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+20:11:53.939[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+20:12:02.082[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+20:12:02.523[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+20:15:15.987[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+20:15:15.995[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+20:15:21.858[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+20:15:22.360[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+20:36:50.503[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+20:36:50.513[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+20:36:54.616[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+20:36:55.071[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+10:43:25.286[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+10:43:25.313[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+10:43:29.350[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+10:43:29.928[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+10:45:21.317[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+10:45:21.331[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+10:45:23.999[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+10:45:24.611[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+10:48:48.958[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+10:48:48.972[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+10:48:52.766[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+10:48:53.640[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+10:49:35.499[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Save button
+10:53:43.145[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+10:53:43.162[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+10:53:46.737[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+10:53:47.511[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+10:54:31.705[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Save button
+10:59:25.963[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+10:59:25.981[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+10:59:29.747[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+10:59:30.343[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+11:00:15.113[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Save button
+11:00:24.776[main] INFO  testCases.RB_loadcreationDDT_002 - **** Finished RB_loadcreationDDT_002 ****
+11:16:40.107[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+11:16:40.125[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+11:16:42.734[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+11:16:43.285[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+11:17:29.302[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Save button
+11:17:39.700[main] INFO  testCases.RB_loadcreationDDT_002 - **** Finished RB_loadcreationDDT_002 ****
+11:17:39.752[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+11:17:39.755[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+11:17:41.351[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+11:17:41.549[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+11:18:15.016[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Save button
+11:23:01.892[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+11:23:01.908[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+11:23:03.729[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+11:23:04.180[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+11:23:49.561[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Save button
+11:24:03.167[main] INFO  testCases.RB_loadcreationDDT_002 - **** Starting RB_loadcreationDDT_002 ****
+11:24:03.172[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Load button
+11:24:03.320[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Newload button
+11:24:03.557[main] INFO  testCases.RB_loadcreationDDT_002 - Providing load details
+11:24:36.916[main] INFO  testCases.RB_loadcreationDDT_002 - Clicked Save button
+11:24:48.094[main] INFO  testCases.RB_loadcreationDDT_002 - **** Finished RB_loadcreationDDT_002 ****
+13:42:45.969[main] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+13:42:45.986[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+13:42:52.461[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Newload button
+13:42:53.188[main] INFO  testCases.RB_loadcreationtest_001 - Providing load details
+13:43:28.158[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Save button
+13:43:41.502[main] ERROR testCases.RB_loadcreationtest_001 - Test Failed
+13:45:50.910[main] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+13:45:50.953[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+13:45:56.999[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Newload button
+13:45:57.479[main] INFO  testCases.RB_loadcreationtest_001 - Providing load details
+13:46:31.075[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Save button
+13:50:39.654[main] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+13:50:39.683[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+13:50:46.621[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Newload button
+13:50:47.013[main] INFO  testCases.RB_loadcreationtest_001 - Providing load details
+13:51:22.024[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Save button
+13:51:32.493[main] INFO  testCases.RB_loadcreationtest_001 - ******Finished RB_loadcreationtest_001 Test*******
+16:39:57.630[main] INFO  testCases.RB_loadcreationtest_001 - ******Starting RB_loadcreationtest_001 Test*******
+16:39:57.704[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Load button
+16:40:05.041[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Newload button
+16:40:05.583[main] INFO  testCases.RB_loadcreationtest_001 - Providing load details
+16:40:39.424[main] INFO  testCases.RB_loadcreationtest_001 - Clicked Save button
+16:40:50.300[main] INFO  testCases.RB_loadcreationtest_001 - ******Finished RB_loadcreationtest_001 Test*******
