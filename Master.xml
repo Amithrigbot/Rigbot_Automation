@@ -8,8 +8,8 @@
 		<parameter name="browser" value="chrome">
 		</parameter>
 		<classes>
-			<class name="testCases.RB_loadcreationtest_001" /> 
-			<!--<class name="testCases.RB_loadcreationDDT_002" /> -->
+			<!--<class name="testCases.RB_loadcreationtest_001" />-->
+			<class name="testCases.RB_loadcreationDDT_002" />  
 		</classes>
 	</test> 
 </suite> 

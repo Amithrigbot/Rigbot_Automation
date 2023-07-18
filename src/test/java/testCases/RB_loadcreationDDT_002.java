@@ -69,14 +69,18 @@ public class RB_loadcreationDDT_002 extends BaseClass {
 		}
 		String DropoffTimeType=Dtimetype;
 		if(DropoffTimeType=="Between") {
+			logger.info("provided time");
 			lc.setDropoffBetweeenTime(DBtime1, DBtime2);
 		}
 		else {
 			lc.setDropoffTime(DropoffTimeType,Dtime);
 		}
 		
+		Thread.sleep(1000);
 		logger.info("Clicked Save button");
 		lc.clickSaveButton();
+		
+		hp.clickLoadButton();
 		
 		lc.clickRefreshButton();
 		
@@ -90,7 +94,7 @@ public class RB_loadcreationDDT_002 extends BaseClass {
 			}
 			else 
 			{
-				Assert.assertTrue(false);
+				Assert.assertTrue(false);;
 			}
 		}
 		if(Status.equals("Invalid")) 

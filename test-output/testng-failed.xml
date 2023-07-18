@@ -7,13 +7,13 @@
   <test thread-count="5" name="RigbotTest(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.RB_loadcreationDDT_002">
+      <class name="testCases.RB_loadcreationtest_001">
         <methods>
           <include name="tearDown"/>
+          <include name="test_loadCreation"/>
           <include name="setUp"/>
-          <include name="test_loadDDT" invocation-numbers="0"/>
         </methods>
-      </class> <!-- testCases.RB_loadcreationDDT_002 -->
+      </class> <!-- testCases.RB_loadcreationtest_001 -->
     </classes>
   </test> <!-- RigbotTest(failed) -->
 </suite> <!-- Failed suite [RigbotSuite] -->

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-14T11:22:46 IST" name="RigbotSuite" finished-at="2023-07-14T11:24:49 IST" duration-ms="122668">
+  <suite started-at="2023-07-17T15:33:11 IST" name="RigbotSuite" finished-at="2023-07-17T15:34:10 IST" duration-ms="59414">
     <groups>
     </groups>
-    <test started-at="2023-07-14T11:22:46 IST" name="RigbotTest" finished-at="2023-07-14T11:24:49 IST" duration-ms="122668">
-      <class name="testCases.RB_loadcreationDDT_002">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.RB_loadcreationDDT_002@74e52ef6]" started-at="2023-07-14T11:22:46 IST" name="setUp" finished-at="2023-07-14T11:22:57 IST" duration-ms="10717" status="PASS">
+    <test started-at="2023-07-17T15:33:11 IST" name="RigbotTest" finished-at="2023-07-17T15:34:10 IST" duration-ms="59414">
+      <class name="testCases.RB_loadcreationtest_001">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.RB_loadcreationtest_001@26794848]" started-at="2023-07-17T15:33:11 IST" name="setUp" finished-at="2023-07-17T15:33:25 IST" duration-ms="14249" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,149 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test_loadDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RB_loadcreationDDT_002@74e52ef6]" started-at="2023-07-14T11:23:01 IST" name="test_loadDDT" data-provider="LoadData" finished-at="2023-07-14T11:24:02 IST" duration-ms="61076" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[379971]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Best international]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Any Equipment]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Fragile]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[LTL]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[30]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[4]]>
-              </value>
-            </param>
-            <param index="7">
-              <value>
-                <![CDATA[15]]>
-              </value>
-            </param>
-            <param index="8">
-              <value>
-                <![CDATA[34]]>
-              </value>
-            </param>
-            <param index="9">
-              <value>
-                <![CDATA[Dwhite pastures]]>
-              </value>
-            </param>
-            <param index="10">
-              <value>
-                <![CDATA[On]]>
-              </value>
-            </param>
-            <param index="11">
-              <value>
-                <![CDATA[07/20/2023]]>
-              </value>
-            </param>
-            <param index="12">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="13">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="14">
-              <value>
-                <![CDATA[At]]>
-              </value>
-            </param>
-            <param index="15">
-              <value>
-                <![CDATA[12:00 pm]]>
-              </value>
-            </param>
-            <param index="16">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="17">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="18">
-              <value>
-                <![CDATA[Adam Shipper]]>
-              </value>
-            </param>
-            <param index="19">
-              <value>
-                <![CDATA[On]]>
-              </value>
-            </param>
-            <param index="20">
-              <value>
-                <![CDATA[07/22/2023]]>
-              </value>
-            </param>
-            <param index="21">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="22">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="23">
-              <value>
-                <![CDATA[After]]>
-              </value>
-            </param>
-            <param index="24">
-              <value>
-                <![CDATA[12:00 pm]]>
-              </value>
-            </param>
-            <param index="25">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="26">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="27">
-              <value>
-                <![CDATA[Invalid]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="test_loadCreation()[pri:0, instance:testCases.RB_loadcreationtest_001@26794848]" started-at="2023-07-17T15:33:25 IST" name="test_loadCreation" finished-at="2023-07-17T15:34:09 IST" duration-ms="43197" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[null]]>
@@ -169,7 +27,7 @@
               <![CDATA[java.lang.AssertionError: null
 at org.testng.Assert.fail(Assert.java:111)
 at org.testng.Assert.fail(Assert.java:116)
-at testCases.RB_loadcreationDDT_002.test_loadDDT(RB_loadcreationDDT_002.java:111)
+at testCases.RB_loadcreationtest_001.test_loadCreation(RB_loadcreationtest_001.java:80)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -203,158 +61,12 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_loadDDT -->
-        <test-method signature="test_loadDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RB_loadcreationDDT_002@74e52ef6]" started-at="2023-07-14T11:24:03 IST" name="test_loadDDT" data-provider="LoadData" finished-at="2023-07-14T11:24:48 IST" duration-ms="44929" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[379972]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Jackiechan]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Air Freight]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Refrigerated]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[Pallets]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[56]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[2]]>
-              </value>
-            </param>
-            <param index="7">
-              <value>
-                <![CDATA[13]]>
-              </value>
-            </param>
-            <param index="8">
-              <value>
-                <![CDATA[23]]>
-              </value>
-            </param>
-            <param index="9">
-              <value>
-                <![CDATA[sadfsdf]]>
-              </value>
-            </param>
-            <param index="10">
-              <value>
-                <![CDATA[Between]]>
-              </value>
-            </param>
-            <param index="11">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="12">
-              <value>
-                <![CDATA[08/20/2023]]>
-              </value>
-            </param>
-            <param index="13">
-              <value>
-                <![CDATA[08/21/2023]]>
-              </value>
-            </param>
-            <param index="14">
-              <value>
-                <![CDATA[Before]]>
-              </value>
-            </param>
-            <param index="15">
-              <value>
-                <![CDATA[12:00 pm]]>
-              </value>
-            </param>
-            <param index="16">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="17">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="18">
-              <value>
-                <![CDATA[madhu1]]>
-              </value>
-            </param>
-            <param index="19">
-              <value>
-                <![CDATA[Between]]>
-              </value>
-            </param>
-            <param index="20">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="21">
-              <value>
-                <![CDATA[08/22/2023]]>
-              </value>
-            </param>
-            <param index="22">
-              <value>
-                <![CDATA[08/24/2023]]>
-              </value>
-            </param>
-            <param index="23">
-              <value>
-                <![CDATA[Between]]>
-              </value>
-            </param>
-            <param index="24">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="25">
-              <value>
-                <![CDATA[12:00 pm]]>
-              </value>
-            </param>
-            <param index="26">
-              <value>
-                <![CDATA[04:00 pm]]>
-              </value>
-            </param>
-            <param index="27">
-              <value>
-                <![CDATA[Valid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test_loadDDT -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RB_loadcreationDDT_002@74e52ef6]" started-at="2023-07-14T11:24:48 IST" name="tearDown" finished-at="2023-07-14T11:24:49 IST" duration-ms="1144" status="PASS">
+        </test-method> <!-- test_loadCreation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RB_loadcreationtest_001@26794848]" started-at="2023-07-17T15:34:09 IST" name="tearDown" finished-at="2023-07-17T15:34:10 IST" duration-ms="1183" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.RB_loadcreationDDT_002 -->
+      </class> <!-- testCases.RB_loadcreationtest_001 -->
     </test> <!-- RigbotTest -->
   </suite> <!-- RigbotSuite -->
 </testng-results>

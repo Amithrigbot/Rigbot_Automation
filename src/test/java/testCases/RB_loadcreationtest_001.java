@@ -59,12 +59,12 @@ public class RB_loadcreationtest_001 extends BaseClass {
 		else {
 			lc.setDropoffBetweeenDate("", "");
 		}
-		String DropoffTimeType="After";
+		String DropoffTimeType="Between";
 		if(DropoffTimeType=="Between") {
-			lc.setDropoffBetweeenTime("", "");
+			lc.setDropoffBetweeenTime("12:00 P", "01:00 P");
 		}
 		else {
-			lc.setDropoffTime(DropoffTimeType,"12:00 P");
+			lc.setDropoffTime(DropoffTimeType,"");
 		}
 		
 		logger.info("Clicked Save button");

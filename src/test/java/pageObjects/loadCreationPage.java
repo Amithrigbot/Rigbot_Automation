@@ -19,7 +19,7 @@ public class loadCreationPage extends basePage {
 	Actions actions = new Actions(driver);
 	JavascriptExecutor js=(JavascriptExecutor)driver;
     @FindBy(id = "orderNumber") WebElement orderNumber_Input;
-    @FindBy(xpath = "//div[@aria-label='Customer / Broker']") WebElement C_B_dropDown_Button;
+    @FindBy(xpath = "//span[normalize-space()='Select']") WebElement C_B_dropDown_Button;
     @FindBy(xpath = "//input[@class='p-dropdown-filter p-inputtext p-component']") WebElement C_B_dropdown_input;
     @FindBy(xpath = "//ul[@role='listbox']//li") WebElement C_B_dropdown_List;
     @FindBy(xpath = "//div[@aria-label='Equipment Type']") WebElement equipmentType_Button;
@@ -35,13 +35,13 @@ public class loadCreationPage extends basePage {
     
     //Pickup Details.
     @FindBy(xpath = "//input[@placeholder='Shipper Name']") WebElement shipperName_input;
-    @FindBy(xpath = "(//div[contains(@aria-label,'Select')])[1]") WebElement pickUpDateDropDown_button;
+    @FindBy(xpath = "//div[contains(@class,' pickup-card')]//div[contains(@class,'shipper-commodity-info')]//div[@aria-label='Select']") WebElement pickUpDateDropDown_button;
     @FindBy(xpath = "//li[@aria-label='On']") WebElement pickUPDateOn_Button;
     @FindBy(xpath = "//input[contains(@placeholder,'Pickup On')]") WebElement PickUpON_Input;
     @FindBy(xpath = "//li[@aria-label='Between']") WebElement pickUpDateBetween_Button;
     @FindBy(xpath = "//input[@placeholder='Pickup From']") WebElement pickUpFrom_Input;
     @FindBy(xpath = "(//input[@placeholder='Pickup To'])[1]") WebElement pickUpTo_Input;
-    @FindBy(xpath = "(//div[@aria-label='Select'])[2]") WebElement pickUpTimeDropDown_button;
+    @FindBy(xpath = "//div[@class='shipper-consignee-details-info pickup-card']//div[@class='form-group mb-5 col-xs-3 col-lg-3 col-md-6 col-sm-12 ']//div[@aria-label='Select']") WebElement pickUpTimeDropDown_button;
     @FindBy(xpath = "//ul[@role='listbox']//li") List<WebElement> pickUpTime_List;
     @FindBy(xpath = "//input[contains(@placeholder,'Pickup At')]") WebElement PickUpTime_Input;
     @FindBy(xpath = "//li[@aria-label='Between']") WebElement PickUpTimeBetween_Button;
@@ -53,13 +53,13 @@ public class loadCreationPage extends basePage {
 
     //DropOff Details.
     @FindBy(xpath = "//input[@placeholder='Consignee Name']") WebElement consigneeName_Input;
-    @FindBy(xpath = "(//div[@aria-label='Select'])[3]") WebElement dropOffDateDropDown_Button;
+    @FindBy(xpath = "//div[@class='form-group mb-5 col-xs-3 col-lg-3 col-md-6 col-sm-12 shipper-commodity-info']//div[@aria-label='Select']") WebElement dropOffDateDropDown_Button;
     @FindBy(xpath = "//li[@aria-label='On']") WebElement dropOffDateOn_Button;
     @FindBy(xpath = "//input[@placeholder='Delivery On']") WebElement dropOffDateOn_Input;
     @FindBy(xpath = "//li[@aria-label='Between']") WebElement dropOffDateBtwn_Button;
     @FindBy(xpath = "//input[@placeholder='Delivery From']") WebElement dropOffDatebtwnDeliveryFrom_Input;
     @FindBy(xpath = "(//input[contains(@placeholder,'Delivery To')])[1]") WebElement dropOffDatebtwnDeliveryTo_Input;
-    @FindBy(xpath = "(//div[contains(@aria-label,'Select')])[4]") WebElement dropOffTimeDropDown_Button;
+    @FindBy(xpath = "//div[contains(@class,'dropoff-card')]//div[@class='p-dropdown p-component p-inputwrapper p-inputwrapper-filled w-full md:w-14rem']//div[@aria-label='Select']") WebElement dropOffTimeDropDown_Button;
     @FindBy(xpath = "//ul[@role='listbox']//li") List<WebElement> dropOffTime_List;
     @FindBy(xpath = "//input[@placeholder='Delivery At']") WebElement dropOffTime_Input;
     @FindBy(xpath = "//li[@aria-label='Between']") WebElement dropOffTimeBtwn_Button;
